@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project is an interactive Healthcare Analytics Dashboard built using Power BI. It provides insights into patient data, revenue trends, and hospital performance.
+This project is an interactive Healthcare Analytics Dashboard built using SQL & Power BI. It provides insights into patient data, revenue trends, and hospital performance.
 
 ---
 
