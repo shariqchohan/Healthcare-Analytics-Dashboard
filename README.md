@@ -46,7 +46,8 @@ This project is an interactive Healthcare Analytics Dashboard built using SQL & 
 
 ## 📸 Dashboard Preview
 
-<img width="825" height="458" alt="image" src="https://github.com/user-attachments/assets/e4f3b834-c4e5-405d-af70-2c932fd0198d" />
+<img width="813" height="455" alt="image" src="https://github.com/user-attachments/assets/0d22e312-280b-470e-bcd3-6ca532d2e51b" />
+
 
 
 
