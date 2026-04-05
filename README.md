@@ -46,7 +46,8 @@ This project is an interactive Healthcare Analytics Dashboard built using Power 
 
 ## 📸 Dashboard Preview
 
-(image.png)
+<img width="825" height="458" alt="image" src="https://github.com/user-attachments/assets/e4f3b834-c4e5-405d-af70-2c932fd0198d" />
+
 
 
 ---
